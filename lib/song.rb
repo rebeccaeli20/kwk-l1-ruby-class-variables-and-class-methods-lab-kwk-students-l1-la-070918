@@ -16,6 +16,6 @@ class Song
 end 
 
 ninety_nine_problems = Song.new("99 Problems", "Jay-Z", "rap")
-puts ninety_nine_problems.name
+puts ninety_nine_problems.genre
 all_songs_array = Song.all_songs 
-puts all_songs_array.length
+# puts all_songs_array.length
