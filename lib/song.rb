@@ -20,4 +20,4 @@ love_lies = Song.new("Love Lies", "Khalid and Normani", "R&B")
 # puts ninety_nine_problems.genre
 all_songs_array = Song.all_songs 
 # puts all_songs_array.length
-puts Song.genre
+puts Song.all_songs.genre
